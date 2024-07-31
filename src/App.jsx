@@ -1,7 +1,7 @@
-
+// src/App.jsx
 import React from 'react';
 import PriceCard from './PriceCard';
-import { priceCardsData } from './data'; // Ensure the file name matches
+import { priceCardsData } from './Data'; // Ensure this matches the filename and path
 import './App.css'; // Optional: Add your CSS file for styling
 
 const App = () => {
